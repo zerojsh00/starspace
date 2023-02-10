@@ -1,0 +1,94 @@
+﻿utterance,intent
+안녕,greeting
+하이,greeting
+반가워,greeting
+오랜만이야,greeting
+ㅎㅇ,greeting
+ㅎ2,greeting
+야 반갑다,greeting
+반갑습니다,greeting
+안녕하세요,greeting
+안녕하셨습니까?,greeting
+헬로,greeting
+오랜만,greeting
+헬로우,greeting
+하이염,greeting
+ㅋㅋㅋ 야 안녕 반가워,greeting
+반갑다 ㅋㅋㅋ,greeting
+안녕하십니까 ㅎㅎㅎㅎ,greeting
+안녕하셨나요 ㅋㅋ,greeting
+반가워 !,greeting
+반가워요,greeting
+ㅋㅋㅋㅋ 반갑다,greeting
+잘 지냄? ㅎㅎ,greeting
+잘지내?,greeting
+잘 지냈죠?,greeting
+잘 지냈지?,greeting
+오래간만이야 ㅋㅋ 잘 지냈어?,greeting
+그동안 어떻게 지냈어?,greeting
+"진짜 오랜만이야, ㅋㅋ 잘지냈지?",greeting
+잘 살고 있냐?,greeting
+잘 사냐? ㅎㅎㅎ,greeting
+잘 살아?,greeting
+요새 어떻게 살고 있어?,greeting
+날씨알려줘,weather
+서울 날씨 알려줘,weather
+지금 기온은 어때,weather
+비와 ?,weather
+눈와?,weather
+구름 꼈어?,weather
+부산 날씨 알려줘,weather
+대구 날씨는 어때,weather
+내일 비와 ?,weather
+오늘 날씨는?,weather
+내일 제주 날씨는?,weather
+내일 여행가는데 날씨 어때?,weather
+내일 추워?,weather
+오늘 더워?,weather
+미세 먼지는 어때?,weather
+오늘 바람 많이 분대?,weather
+밖에 습도 심해?,weather
+오늘 습해?,weather
+모레는 더워?,weather
+어제 날씨는 어땠지?,weather
+밖에 비와??,weather
+오늘 눈오나 ?,weather
+천둥쳐?,weather
+번개쳐?,weather
+오늘 천둥 번개쳐?,weather
+바람 많이 불어?,weather
+오늘 온도 어때? 추워?,weather
+내일 기온은 어때? 더워?,weather
+대전에 오늘 비 온대?,weather
+날씨 알려줘봐,weather
+맛집 알려줘,restaurant
+배고파,restaurant
+주변 맛집 알려줘,restaurant
+서울 맛집 알려줘,restaurant
+뭐 먹을까?,restaurant
+이동네는 어떤 음식이 유명해?,restaurant
+먹을 것 좀 없을까?,restaurant
+오늘 저녁 뭐먹지,restaurant
+내일 뭐먹을까?,restaurant
+뭐먹냐..?,restaurant
+괜찮은 맛집좀,restaurant
+먹을만한 음식 추천좀,restaurant
+뭐 먹을지 추천좀 해줘,restaurant
+뭐 먹을지 고민되네,restaurant
+뭐 먹을지 알려줘,restaurant
+맛집좀 알려줘봐,restaurant
+와 진짜 개배고파 ㅠㅠ,restaurant
+배고파 죽겠다. 뭐 먹을까???,restaurant
+중국집 근처에 있나?,restaurant
+일식집 어디 갈지 알려줘봐,restaurant
+"햄버거 먹고 싶은데, 패스트푸드점 있어?",restaurant
+"짜장면 먹으러 가려고 하는데, 추천좀 해봐",restaurant
+"밥 먹으려고 하는데, 뭐먹을까?",restaurant
+마라탕 먹고싶다.,restaurant
+뭘 먹어야 잘 먹었다고 할까?,restaurant
+배고픈데 먹을것좀 없냐?,restaurant
+배고파 ㅠㅠ,restaurant
+점심에 뭐 먹을까 …,restaurant
+저녁은 뭐 먹지?,restaurant
+아침밥 뭐 해먹을까?,restaurant
+저녁밥 뭐먹지?,restaurant
