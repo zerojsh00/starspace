@@ -54,7 +54,7 @@ python train.py --featurizer_model='BERT' --BERTtokenizer_model='klue/bert-base'
 
 ## To Do
 
-- inference 코드의 작성
+- early stopping에 따른 checkpoint 생성 및 inference 코드의 작성
 - logger 및 wandb 사용
 - 전처리 코드의 통합
 - 배치 단위의 학습 지원
