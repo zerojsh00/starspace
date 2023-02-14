@@ -1,6 +1,5 @@
 # StarSpace를 활용한 임베딩 분류기
 
-
 본 레포지터리에서는 few-show learning의 일환으로 요긴하게 활용할 수 있는 [StarSpace](https://arxiv.org/pdf/1709.03856.pdf) 분류기 학습을 체험할 수 있습니다.
 
 2017년 facebook AI에서 제안된 StarSpace는 텍스트 분류를 포함하여 다양한 도메인에서 활용될 수 있는 신경망 임베딩 모델(a general purpose neural embedding model)입니다. 
@@ -8,7 +7,6 @@
 
 ## 기본 메커니즘
 
----
 ### 1) 문장을 토크나이즈 함
    - 단순한 공백을 기준으로 split 하는 방식 `To Do`
    - KoNLPy, Mecab 등의 형태소 분석기를 활용하여 토크나이즈 하는 방식 `To Do`
@@ -42,7 +40,6 @@
 
 ## 학습 방법
 
----
 ```python
 # default setting : TF-IDF 벡터 기반의 StarSpace 분류기
 python train.py 
@@ -57,7 +54,6 @@ python train.py --featurizer_model='BERT' --BERTtokenizer_model='klue/bert-base'
 
 ## To Do
 
----
 - inference 코드의 작성
 - logger 및 wandb 사용
 - 전처리 코드의 통합
